@@ -1,6 +1,6 @@
 # Hello, I’m Carlos
 
-I’m a software developer based in Medellín, Colombia. I believe development is driven by logic, and I rely on UML diagrams to translate complex ideas into clear, maintainable designs.
+I’m a software developer and BHDO's founder, based in Medellín, Colombia. I believe development is driven by logic, and I rely on UML diagrams to translate complex ideas into clear, maintainable designs.
 
 ---
 
@@ -50,6 +50,6 @@ I’m a software developer based in Medellín, Colombia. I believe development i
 
 ---
 
-> Software development built on logic and clear design.
+> Software development built on logic and clear design. 
 
 Feel free to explore my repositories or connect if you’d like to collaborate.
