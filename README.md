@@ -26,7 +26,7 @@ I’m a software developer based in Medellín, Colombia. I believe development i
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24"/> PostgreSQL (learning)
 
 **Design & Modeling**  
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plantuml/plantuml-original.svg" alt="PlantUML" width="24"/> UML diagrams
+- UML diagrams
 
 **DevOps (in progress)**  
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24"/> Docker   
