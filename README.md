@@ -16,22 +16,22 @@ I’m a software developer based in Medellín, Colombia. I believe development i
 ## Tech Stack
 
 **Languages & Frameworks**  
-- ![TypeScript Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg) TypeScript (learning)  
-- ![Java Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg) Java (exploring)  
-- ![Python Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg) Python (exploring)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="24"/> TypeScript (learning)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="24"/> Java (exploring)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="24"/> Python (exploring)
 
 **Databases**  
-- ![MySQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg) MySQL (learning)  
-- ![MongoDB Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg) MongoDB (learning)  
-- ![PostgreSQL Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg) PostgreSQL (learning)
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="24"/> MySQL (learning)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="24"/> MongoDB (learning)  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="24"/> PostgreSQL (learning)
 
 **Design & Modeling**  
-- ![PlantUML Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plantuml/plantuml-original.svg) UML diagrams for architecture
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/plantuml/plantuml-original.svg" alt="PlantUML" width="24"/> UML diagrams
 
 **DevOps (in progress)**  
-- ![Docker Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg) Docker  
-- ![Terraform Logo](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg) Terraform  
-- CI/CD pipelines and infrastructure as code practices  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="24"/> Docker   
+- CI/CD pipelines and infrastructure as code
+
 
 ---
 
@@ -41,16 +41,15 @@ I’m a software developer based in Medellín, Colombia. I believe development i
 
 ---
 
-## Personal Interests
+## Beyond Code
 
-- Composing music and playing piano  
-- Gaming and co-op sessions  
-- Exploring new cuisines, especially Korean and Japanese dishes  
-- Car enthusiast who enjoys crisp, cool days  
+- Music composer in my free time  
+- Gaming and co-op sessions
+- Culinary explorer: love tasting new dishes—especially Korean and Japanese specialties  
+- Car enthusiast who appreciates a crisp, cool day  
 
 ---
 
 > Software development built on logic and clear design.
 
 Feel free to explore my repositories or connect if you’d like to collaborate.
-```
